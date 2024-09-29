@@ -1,3 +1,3 @@
 # event-kafka-unbatched
 
-![System Design](.github/images/event-kafka-unbatched.gif)
+![System Design](../.github/images/event-kafka-unbatched.gif)
