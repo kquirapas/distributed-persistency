@@ -1,3 +1,4 @@
 [workspace]
 memberse = []
 resolver = "2"
+members = [ "event-kafka-unbatched","storage"]

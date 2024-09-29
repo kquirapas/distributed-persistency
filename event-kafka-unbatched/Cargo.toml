@@ -1,0 +1,13 @@
+[package]
+name = "event-kafka-unbatched"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.89"
+storage = { version = "0.1.0", path = "../storage" }
+sqlx = "0.8.2"
+thiserror = "1.0.64"
+tokio = "1.40.0"
+axum = "0.7.7"
+tracing = "0.1.40"
